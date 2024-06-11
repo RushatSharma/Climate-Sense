@@ -4,11 +4,6 @@ Built using HTML, CSS, JavaScript, and PHP, this responsive web application is i
 
 ```markdown
 
-Screenshot of weather dashboard:
-![homepage](https://github.com/RushatSharma/Climate-Sense/assets/137203915/16a5cde0-d769-409f-8d38-61caf1409657)
-![feedback](https://github.com/RushatSharma/Climate-Sense/assets/137203915/af1e557d-8655-445f-b853-14fd70d3bfdd)
-
-
 Features:
 
 - User Authentication: Secure login and signup functionality.
