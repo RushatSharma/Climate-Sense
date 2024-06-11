@@ -4,7 +4,8 @@ Built using HTML, CSS, JavaScript, and PHP, this responsive web application is i
 
 ```markdown
 Screenshot of weather dashboard:
-![homepage](https://github.com/RushatSharma/Climate-Sense/assets/137203915/1d64c7db-4e85-4b2b-9580-70da27ab59fb)
+
+![homepage](https://github.com/RushatSharma/Climate-Sense/assets/137203915/33140378-519b-48fc-b9e0-7b46a45d5ec1)
 
 Features:
 
