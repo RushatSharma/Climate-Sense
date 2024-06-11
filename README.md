@@ -3,6 +3,9 @@ Climate Sense is a weather forecasting website integrated with the OpenWeather A
 Built using HTML, CSS, JavaScript, and PHP, this responsive web application is ideal for farmers and anyone interested in agriculture.
 
 ```markdown
+Screenshot of weather dashboard:
+![homepage](https://github.com/RushatSharma/Climate-Sense/assets/137203915/1d64c7db-4e85-4b2b-9580-70da27ab59fb)
+
 Features:
 
 - User Authentication: Secure login and signup functionality.
