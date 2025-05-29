@@ -48,7 +48,9 @@ Usage:
 
 1. Access the website in your web browser:
     ```plaintext
-    http://localhost/climate-sense
+    http://localhost/login.html
+    or
+      http://localhost/index.html
     ```
 
 2. Sign up for a new account or log in with existing credentials.
@@ -88,9 +90,10 @@ Contact:
 
 For any questions or suggestions, feel free to reach out to me at:
 - Email: rushatsharma2501@gmail.com
-- GitHub: [RushatSharma](https://github.com/RushatSharma)
+- LinkedIn: [Rushat Sharma](https://www.linkedin.com/in/rushat-sharma/)
+- GitHub: [Rushat Sharma](https://github.com/RushatSharma)
 
 ---
 
 Thank you for using Climate Sense! We hope this tool helps you make informed decisions and improve your agricultural practices.
-```
+
